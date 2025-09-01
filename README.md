@@ -1,4 +1,4 @@
-# ReactJS: interfaces front-end - 40 horas 
+# ReactJS: interfaces front-end  
 - Noções sobre ReactJs: instalação e criação de componentes a partir de biblioteca de JavaScript 
 - Criar e aperfeiçoar o front-end, utilizando estruturas e componentes do ReactJS 
 - Alterar interface web usando a biblioteca ReactJS 
