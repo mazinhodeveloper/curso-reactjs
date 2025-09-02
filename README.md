@@ -1,3 +1,8 @@
+> Aula 01   
+> Docente: Lucas / 20   
+> Data: 25/08/2025   
+
+
 # ReactJS: Interfaces Front-End  
 - Noções sobre ReactJs: instalação e criação de componentes a partir de biblioteca de JavaScript 
 - Criar e aperfeiçoar o front-end, utilizando estruturas e componentes do ReactJS 
@@ -15,8 +20,8 @@
 
 
 ## Descrição 
-- ReactJS: interfaces front-end 
-  - Você aprenderá a construir soluções web usando recursos de ReactJs, aperfeiçoando o front-end de projetos de web.
+- ReactJS: interfaces front-end    
+  Você aprenderá a construir soluções web usando recursos de ReactJs, aperfeiçoando o front-end de projetos de web.   
 - Duração: 40 horas 
 - Unidade: LAPA TITO 
 - Data: 25/08/2025 a 15/09/2025 
@@ -31,13 +36,14 @@
 - https://github.com/standbytheboy/reactjs 
 
 
-### Requisitos do Projeto
-- Node.js: v22.16.0 ou maior 
-- https://nodejs.org 
-- NPM: 10.9.2 ou maior 
-- https://npmjs.com/package/npm 
+### Projeto   
+| Requisitos do Projeto      | URL                    |  
+|--------------------------- | ---------------------- |
+| Node.js: v22.16.0 ou maior | https://nodejs.org     |   
+| NPM: 10.9.2 ou maior       | https://npmjs.com      |
 
 
-### Rodando o Projeto
-- npm install 
-- npm run start 
+#### Rodando o Projeto
+  - npm install    
+  - npm run dev 
+
