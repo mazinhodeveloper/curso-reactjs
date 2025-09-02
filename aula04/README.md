@@ -1,6 +1,6 @@
-> Aula 02   
+> Aula 04   
 > Docente: Lucas    
-> Data: 27/08/2025     
+> Data: 01/09/2025   
 
 
 # GitHub / Curso ReactJS 
@@ -19,8 +19,8 @@ https://github.com/mazinhodeveloper/curso-reactjs
 | NPM                   | YARN                  |  
 |---------------------- |---------------------- |  
 | npm install           | yarn install          |   
-| npm run dev           | yarn dev              |      
-  
+| npm run dev           | yarn dev              |    
+    
 Acesso: http://localhost:5173 / Checar o terminal   
 
 
@@ -30,4 +30,12 @@ npm i akar-icons
 
 
 #### Generator / Box Shadow 
-https://html-css-js.com/css/generator/box-shadow 
+https://html-css-js.com/css/generator/box-shadow     
+
+
+#### Monkeytype / Typing test 
+https://monkeytype.com 
+
+
+#### Free Images 
+https://unsplash.com 

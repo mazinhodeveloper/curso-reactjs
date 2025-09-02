@@ -19,7 +19,8 @@ https://github.com/mazinhodeveloper/curso-reactjs
 | NPM                   | YARN                  |  
 |---------------------- |---------------------- |  
 | npm install           | yarn install          |   
-| npm run dev           | yarn dev              |        
+| npm run dev           | yarn dev              |    
+    
 Acesso: http://localhost:5173 / Checar o terminal   
 
 
