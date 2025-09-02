@@ -26,7 +26,7 @@ https://www.sp.senac.br/cursos-livres/curso-de-reactjs-interfaces-front-end
 | NPM: 10.9.2 ou maior       | https://npmjs.com      |
 
 
-#### Rodando o Projeto
+### Rodando o Projeto / PetShop 
   - npm install    
   - npm run dev 
 
