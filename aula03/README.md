@@ -1,6 +1,6 @@
-> Aula 02   
+> Aula 03   
 > Docente: Lucas    
-> Data: 27/08/2025     
+> Data: 29/08/2025   
 
 
 # GitHub / Curso ReactJS 
@@ -29,4 +29,12 @@ npm i akar-icons
 
 
 #### Generator / Box Shadow 
-https://html-css-js.com/css/generator/box-shadow 
+https://html-css-js.com/css/generator/box-shadow     
+
+
+#### Monkeytype / Typing test 
+https://monkeytype.com 
+
+
+#### Free Images 
+https://unsplash.com 
