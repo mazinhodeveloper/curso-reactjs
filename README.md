@@ -1,4 +1,4 @@
-# ReactJS: interfaces front-end  
+# ReactJS: Interfaces Front-End  
 - Noções sobre ReactJs: instalação e criação de componentes a partir de biblioteca de JavaScript 
 - Criar e aperfeiçoar o front-end, utilizando estruturas e componentes do ReactJS 
 - Alterar interface web usando a biblioteca ReactJS 
@@ -23,7 +23,7 @@
 - https://www.sp.senac.br/cursos-livres/curso-de-reactjs-interfaces-front-end 
 
 
-## Docente / GitHub 
+#### Docente / GitHub 
 - Docente: Lucas Morais 
 - Data: 01/09/2025 
 - http://github.com/standbytheboy 
@@ -31,8 +31,13 @@
 - https://github.com/standbytheboy/reactjs 
 
 
-### Rodando o Projeto 
+#### Requisitos do Projeto
 - Node.js: v22.16.0 ou maior 
-  - https://nodejs.org 
+- https://nodejs.org 
 - NPM: 10.9.2 ou maior 
-  - https://npmjs.com/package/npm
+- https://npmjs.com/package/npm 
+
+
+#### Rodando o Projeto
+- npm install 
+- npm run start 
