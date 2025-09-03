@@ -1,0 +1,47 @@
+.carousel-section {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.carousel-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.carousel-nav {
+    display: flex;
+    gap: 20px;
+}
+ 
+.nav-btn {
+    background-color: #000000;
+    border: none;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    cursor: pointer;
+}
+
+.nav-icon {
+    stroke: #ffffff;
+}
+
+.cards-container {
+    display: flex;
+    gap: 10px;
+    justify-content: space-between;
+    overflow-x: scroll;
+    height: 400px;
+}
+.cards-container::-webkit-scrollbar {
+    display: none;
+}
+
+.card {
+    margin: 10px;
+    min-width: 300px;
+    min-height: 300px;
+    background-color: red;
+    border: 2px solid;
+}
