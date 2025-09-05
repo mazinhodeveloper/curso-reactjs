@@ -27,16 +27,16 @@ Acesso: http://localhost:5173 / Checar o terminal
 #### Google Fonts 
 https://fonts.google.com 
 
-#### Code / CSS Nesting Syntax Highlighting 
-CSS Nesting Syntax Highlighting - Jacob Cassidy 
-Updates VSCode's CSS TextMate rules to add CSS Nesting 
+#### Code / CSS Nesting Syntax Highlighting   
+CSS Nesting Syntax Highlighting - Jacob Cassidy    
+Updates VSCode's CSS TextMate rules to add CSS Nesting   
 
 # React Reference / useState 
-https://react.dev/reference/react/useState 
+https://react.dev/reference/react/useState     
 
 
 # RC-Slider
-https://www.npmjs.com/package/rc-slider 
-https://github.com/react-component/slider 
-https://github.com/react-component/slider 
+https://www.npmjs.com/package/rc-slider    
+https://github.com/react-component/slider    
+https://github.com/react-component/slider    
 npm i rc-slider 
