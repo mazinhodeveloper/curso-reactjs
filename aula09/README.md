@@ -42,7 +42,7 @@ npm i rc-slider
 
 ### react-router-dom 
 https://www.npmjs.com/package/react-router-dom 
-https://reactrouter.com 
+https://reactrouter.com    
 npm i react-router-dom 
 
 
@@ -60,7 +60,7 @@ https://jsoncrack.com/editor
 
 ### Axios 
 https://axios-http.com 
-https://axios-http.com/docs/intro 
+https://axios-http.com/docs/intro     
 npm install axios 
 
 
