@@ -41,8 +41,8 @@ npm i rc-slider
 
 
 ### react-router-dom 
-https://www.npmjs.com/package/react-router-dom 
-https://reactrouter.com    
+https://www.npmjs.com/package/react-router-dom    
+https://reactrouter.com     
 npm i react-router-dom 
 
 
@@ -59,17 +59,17 @@ https://jsoncrack.com/editor
 
 
 ### Axios 
-https://axios-http.com 
+https://axios-http.com     
 https://axios-http.com/docs/intro     
 npm install axios 
 
 
 #### Petfinder 
-https://www.petfinder.com 
-https://www.petfinder.com/developers 
+https://www.petfinder.com    
+https://www.petfinder.com/developers    
 https://www.petfinder.com/developers/v2/docs 
 
 
 ##### Swagger / Petstore 
-https://swagger.io 
+https://swagger.io    
 http://petstore.swagger.io 
